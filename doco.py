@@ -12,7 +12,7 @@ for file in glob.glob("patches/**/*.md"):
     os.remove(file)
     
 
-with open('zoia_patches.csv', newline='') as csvfile:
+with open('patches/zoia_patches.csv', newline='') as csvfile:
     spamreader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
     for row in spamreader:
 
