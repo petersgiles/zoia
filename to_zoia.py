@@ -17,8 +17,14 @@ for i in range(0, 64):
         f'./to_zoia/{i:03d}_zoia_blank.bin'
     ]
 
-for file in glob.glob("./to_zoia/**/*.bin"):
-    os.remove(file)
+
+files = glob.glob('./to_zoia/**/*.bin', recursive=True)
+
+for f in files:
+    try:
+        os.remove(f)
+    except OSError as e:
+        print("Error: %s : %s" % (f, e.strerror))
 
 with open('./to_zoia_patches.csv', newline='') as csvfile:
     patches = csv.DictReader(csvfile, delimiter=',', quotechar='"')

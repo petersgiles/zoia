@@ -1,0 +1,3 @@
+A stereo faux delay voiced like the octave up setting on the Chase Bliss Thermae. It’s two loopers alternating between a record and playback state at 2x time, each run through a low pass filter, diffuser, reverb and a stereo mixer.
+
+Left foot switch is a faux tap tempo that controls the rate of the LFO that dictates how frequently the two loopers alternate (thus controlling how quickly they playback).
