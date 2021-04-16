@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-22
+22  
+
 ## Author
 
 
-Evan Sirchuk
+Evan Sirchuk  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings on infinite delay repeats
+Toe down brings on infinite delay repeats  
+
 ## Left Stompswitch Functionality
 
 

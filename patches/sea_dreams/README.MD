@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-39
+39  
+
 ## Author
 
 
-Nihal Anand 
+Nihal Anand   
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down makes things crazier, increases tremolo rate
+Toe down makes things crazier, increases tremolo rate  
+
 ## Left Stompswitch Functionality
 
 

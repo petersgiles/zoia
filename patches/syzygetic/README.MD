@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-17
+17  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases flanger resonance and reverb
+Toe down increases flanger resonance and reverb  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-26
+26  
+
 ## Author
 
 
-Ian Pritchard
+Ian Pritchard  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings on additional repeats and modulation
+Toe down brings on additional repeats and modulation  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-33
+33  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up a ring mod frequency
+Toe down brings up a ring mod frequency  
+
 ## Left Stompswitch Functionality
 
 

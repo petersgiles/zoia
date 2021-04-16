@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-38
+38  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Expression pedal increases reverb decay time.
+Expression pedal increases reverb decay time.  
+
 ## Left Stompswitch Functionality
 
 

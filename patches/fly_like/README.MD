@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-2
+2  
+
 ## Author
 
 
-Daniel Fisher
+Daniel Fisher  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of synth pattern
+Toe down increases rate of synth pattern  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-36
+36  
+
 ## Author
 
 
-Scott Deathe
+Scott Deathe  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down pushes flange rate and delay feedback into the sun
+Toe down pushes flange rate and delay feedback into the sun  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-3
+3  
+
 ## Author
 
 
-Nihal Anand
+Nihal Anand  
+
 ## Expression Pedal/External Switch Functionality
 
 
-N/A
+N/A  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-34
+34  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases delay feedback and modulation
+Toe down increases delay feedback and modulation  
+
 ## Left Stompswitch Functionality
 
 

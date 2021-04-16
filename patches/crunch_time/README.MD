@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-11
+11  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down changes channel to fuzz
+Toe down changes channel to fuzz  
+
 ## Left Stompswitch Functionality
 
 

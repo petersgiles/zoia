@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-20
+20  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings in flange tone
+Toe down brings in flange tone  
+
 ## Left Stompswitch Functionality
 
 

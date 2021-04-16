@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-59
+59  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases mod depth of delay
+Toe down increases mod depth of delay  
+
 ## Left Stompswitch Functionality
 
 

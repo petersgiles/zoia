@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-56
+56  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases pulse width and Q of 303 filter
+Toe down increases pulse width and Q of 303 filter  
+
 ## Left Stompswitch Functionality
 
 

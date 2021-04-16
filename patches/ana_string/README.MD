@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-43
+43  
+
 ## Author
 
 
-JT Norton
+JT Norton  
+
 ## Expression Pedal/External Switch Functionality
 
 
-N/A
+N/A  
+
 ## Left Stompswitch Functionality
 
 

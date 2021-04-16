@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-40
+40  
+
 ## Author
 
 
-aBunchOfPedals
+aBunchOfPedals  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Expression pedal increases delay mod rate and depth.
+Expression pedal increases delay mod rate and depth.  
+
 ## Left Stompswitch Functionality
 
 

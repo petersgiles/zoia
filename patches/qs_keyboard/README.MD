@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-42
+42  
+
 ## Author
 
 
-Daniel Fisher
+Daniel Fisher  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down decreases delay time into pitch bent subspace.
+Toe down decreases delay time into pitch bent subspace.  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-15
+15  
+
 ## Author
 
 
-Nihal Anand
+Nihal Anand  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down pushes up reverb decay, tremolo and vibrato.
+Toe down pushes up reverb decay, tremolo and vibrato.  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-14
+14  
+
 ## Author
 
 
-Nihal Anand
+Nihal Anand  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down pushes up reverb decay to infinite.
+Toe down pushes up reverb decay to infinite.  
+
 ## Left Stompswitch Functionality
 
 

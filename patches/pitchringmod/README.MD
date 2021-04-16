@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-29
+29  
+
 ## Author
 
 
-Ian Pritchard
+Ian Pritchard  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up oscillator pitch
+Toe down brings up oscillator pitch  
+
 ## Left Stompswitch Functionality
 
 

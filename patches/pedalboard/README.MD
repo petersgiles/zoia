@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-13
+13  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up chorus rate and depth, and delay feedback
+Toe down brings up chorus rate and depth, and delay feedback  
+
 ## Left Stompswitch Functionality
 
 

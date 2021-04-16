@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-46
+46  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down transposes oscillators upwards 1 and 2 octaves
+Toe down transposes oscillators upwards 1 and 2 octaves  
+
 ## Left Stompswitch Functionality
 
 

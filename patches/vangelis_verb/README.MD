@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-35
+35  
+
 ## Author
 
 
-Mitch Lantz
+Mitch Lantz  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down introduces modulation and also speeds it up
+Toe down introduces modulation and also speeds it up  
+
 ## Left Stompswitch Functionality
 
 

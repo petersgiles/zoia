@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-9
+9  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Increases rate of sequence
+Increases rate of sequence  
+
 ## Left Stompswitch Functionality
 
 

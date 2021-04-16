@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-47
+47  
+
 ## Author
 
 
-JT Norton
+JT Norton  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases resonance of filter
+Toe down increases resonance of filter  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-21
+21  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up delay modulation
+Toe down brings up delay modulation  
+
 ## Left Stompswitch Functionality
 
 

@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-31
+31  
+
 ## Author
 
 
-Ian Pritchard
+Ian Pritchard  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down for infinite decay
+Toe down for infinite decay  
+
 ## Left Stompswitch Functionality
 
 

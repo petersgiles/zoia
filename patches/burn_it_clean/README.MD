@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-25
+25  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings in an echo
+Toe down brings in an echo  
+
 ## Left Stompswitch Functionality
 
 

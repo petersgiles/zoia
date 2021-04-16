@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-0
+0  
+
 ## Author
 
 
-Nihal Anand
+Nihal Anand  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Speeds up synth sequence and vibrato
+Speeds up synth sequence and vibrato  
+
 ## Left Stompswitch Functionality
 
 

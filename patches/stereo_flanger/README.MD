@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-23
+23  
+
 ## Author
 
 
-Gabriel Tanaka
+Gabriel Tanaka  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Increases rate of flanger
+Increases rate of flanger  
+
 ## Left Stompswitch Functionality
 
 

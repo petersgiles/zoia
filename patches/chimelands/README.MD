@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-54
+54  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Increases rate and randomness of chimes
+Increases rate and randomness of chimes  
+
 ## Left Stompswitch Functionality
 
 

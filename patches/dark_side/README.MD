@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-8
+8  
+
 ## Author
 
 
-Daniel Fisher
+Daniel Fisher  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down decreases speed of sequence
+Toe down decreases speed of sequence  
+
 ## Left Stompswitch Functionality
 
 

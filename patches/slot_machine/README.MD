@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-32
+32  
+
 ## Author
 
 
-Evan Sirchuk
+Evan Sirchuk  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of alias LFO
+Toe down increases rate of alias LFO  
+
 ## Left Stompswitch Functionality
 
 

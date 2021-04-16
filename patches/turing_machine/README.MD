@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-58
+58  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases filter Q and reverb decay
+Toe down increases filter Q and reverb decay  
+
 ## Left Stompswitch Functionality
 
 

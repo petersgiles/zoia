@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-4
+4  
+
 ## Author
 
 
-Daniel Fisher
+Daniel Fisher  
+
 ## Expression Pedal/External Switch Functionality
 
 
-N/A
+N/A  
+
 ## Left Stompswitch Functionality
 
 

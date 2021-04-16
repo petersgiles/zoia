@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-37
+37  
+
 ## Author
 
 
-Evan Sirchuk
+Evan Sirchuk  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up Q of filters
+Toe down brings up Q of filters  
+
 ## Left Stompswitch Functionality
 
 

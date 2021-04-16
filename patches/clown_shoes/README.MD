@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-5
+5  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings in reverb.
+Toe down brings in reverb.  
+
 ## Left Stompswitch Functionality
 
 

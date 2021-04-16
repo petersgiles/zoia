@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-30
+30  
+
 ## Author
 
 
-Dean Morris
+Dean Morris  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings up left delay to +5 and right delay to -1 semitones
+Toe down brings up left delay to +5 and right delay to -1 semitones  
+
 ## Left Stompswitch Functionality
 
 

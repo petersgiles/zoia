@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-52
+52  
+
 ## Author
 
 
-Nihal Anand
+Nihal Anand  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of sequencer
+Toe down increases rate of sequencer  
+
 ## Left Stompswitch Functionality
 
 

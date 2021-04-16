@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-1
+1  
+
 ## Author
 
 
-Cuckoo
+Cuckoo  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down decreases speed of sequence
+Toe down decreases speed of sequence  
+
 ## Left Stompswitch Functionality
 
 

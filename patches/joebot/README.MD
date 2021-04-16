@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-53
+53  
+
 ## Author
 
 
-Joe Pailo
+Joe Pailo  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases filter frequency
+Toe down increases filter frequency  
+
 ## Left Stompswitch Functionality
 
 

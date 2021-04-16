@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-57
+57  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-N/A
+N/A  
+
 ## Left Stompswitch Functionality
 
 

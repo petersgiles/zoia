@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-18
+18  
+
 ## Author
 
 
-Evan Sirchuk
+Evan Sirchuk  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases vibrato depth
+Toe down increases vibrato depth  
+
 ## Left Stompswitch Functionality
 
 

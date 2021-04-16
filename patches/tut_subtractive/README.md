@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-49
+49  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of parallel vibrato
+Toe down increases rate of parallel vibrato  
+
 ## Left Stompswitch Functionality
 
 

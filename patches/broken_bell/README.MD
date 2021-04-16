@@ -7,15 +7,18 @@
 ## Factory Patch
 
 
-51
+51  
+
 ## Author
 
 
-Benn Jordan
+Benn Jordan  
+
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases reverb decay time
+Toe down increases reverb decay time  
+
 ## Left Stompswitch Functionality
 
 
