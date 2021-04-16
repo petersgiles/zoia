@@ -2,21 +2,21 @@
 
 
 
-# Fly like
+# Weird looper
 
 ## Factory Patch
 
 
-2
+16
 ## Author
 
 
-Daniel Fisher
+Mark Johnston
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of synth pattern
+Toe down slows down the shifting of the panning values
 ## Left Stompswitch Functionality
 
 
-Left stomp triggers synth pattern
+Left stomp brings on delay

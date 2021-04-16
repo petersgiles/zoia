@@ -1,0 +1,65 @@
+Factory Patch,Patch Type,Author,Patch Name,Description,Expression Pedal/External Switch Functionality,Left Stompswitch Functionality
+0,STORE DEMO PATCH,Nihal Anand,Duck Friends,Self-playing synth loop and lofi vibrato guitar effect.,Speeds up synth sequence and vibrato,Toggles synth layers in and out.
+1,STORE DEMO PATCH,Cuckoo,Chipman,Groovy sequence with MIDI synth playable on channel 1. Clean audio through.,Toe down decreases speed of sequence,Toggles hi hat track
+2,STORE DEMO PATCH,Daniel Fisher,Fly Like,Gusting winds and a distant broadcast tower that slowly disappears into the aether. ,Toe down increases rate of synth pattern,Left stomp triggers synth pattern
+3,STORE DEMO PATCH,Nihal Anand,With The Fish,Underwater sequence with playable keyboard module,N/A,N/A
+4,STORE DEMO PATCH,Daniel Fisher,Lifes Bn Good,"An homage to Joe Walsh's ""Life's Been Good""  using a sequenced synth and overdriven guitar. Here comes a flock of wah wahs!",N/A,"Toggles off sequence, starts playback from beginning"
+5,STORE DEMO PATCH,Dean Morris,Clown Shoes,A stereo vibrato with backing octave up. ,Toe down brings in reverb.,Shifts pitch shift up an octave and brings in reverb. Spooky!
+6,STORE DEMO PATCH,Daniel Fisher,Franken Synth,"Stereo fuzz and phaser, hit left stomp for mad synth sound.","Toe down decreases invasion length, starting pitch on new trigger.",Triggers space invasion.
+7,STORE DEMO PATCH,Dean Morris,WakkaPrePost,"Stereo envelope filter with overdrive before the filter on L and after the filter on R, into a stereo slapback delay. Funk city magic!",Toe down spreads out the filter a bit and creates infinite delay repeats,"Tap tempo of the slapback delay, or hold for infinite repeats"
+8,STORE DEMO PATCH,Daniel Fisher,Dark Side,A familiar sequencer pattern with a nice title page. Reverb on guitar.,Toe down decreases speed of sequence,Brings in a low drone
+9,STORE DEMO PATCH,Benn Jordan,A-Melody,A sequenced melody,Increases rate of sequence,Hold to slowly pitch up oscillators by 1 octave
+10,STORE DEMO PATCH,Daniel Fisher,Play Thing,"Grid playable synth with a few different sounds, with fuzz and delay on audio. Trippy!",N/A,N/A
+11,STORE DEMO PATCH,Dean Morris,Crunch Time,2 channel overdrive and fuzz,Toe down changes channel to fuzz,Toggles between fuzz and overdrive
+12,STORE DEMO PATCH,Daniel Fisher,Fooled Again,A modulated filter that is only heard with incoming audio.,N/A,Left stomp turns on and off fuzz.
+13,SMALL PEDAL BOARD,Dean Morris,Pedalboard,"Switch to performance mode to toggle chorus, delay w/ tails, and reverb","Toe down brings up chorus rate and depth, and delay feedback","Left stomp toggles chorus, middle stomp toggles delay, right stomp toggles reverb"
+14,SMALL PEDAL BOARD,Nihal Anand,Stuck,Lightly overdriven reverb with 3 effects controlled by stompswitches in performance mode.,Toe down pushes up reverb decay to infinite.,"Left stomp triggers flange-ish tone, Middle stomp triggers octave up, Right stomp turns flange-ish tone into flange-ish tremolo."
+15,SMALL PEDAL BOARD,Nihal Anand,So Loopy,"Three lo fi loopers, each controlled by a different stompswitch in performance mode.","Toe down pushes up reverb decay, tremolo and vibrato.","Left stomp triggers two main loopers, one regular and one half speed. Middle stomp triggers fragmented looper that bounces between normal and double speed. Right stomp triggers another looper through lofi cab sim."
+16,SINGLE EFFECT,Mark Johnston,Weird Looper,Independent panners take signal from right and left inputs and pan them randomly into the outputs.,Toe down slows down the shifting of the panning values,Left stomp brings on delay
+17,SINGLE EFFECT,Dean Morris,Syzygetic,"A stereo tap tempo flanger widened by harder picking, with a bit of reverb",Toe down increases flanger resonance and reverb,Tap tempo of flanger
+18,SINGLE EFFECT,Evan Sirchuk,Whirlwind,A stereo reverb into a subtle drifting vibrato. Reverb ,Toe down increases vibrato depth,Left stop increases vibrato depth and reverb decay
+19,SINGLE EFFECT,Dean Morris,Delay Trainer,A tap tempo clean delay with a fairly long feedback synced to a tap tempo simple kick. Experiment with different tap ratios and see how your notes line up to the kick.,"Toe down increases delay modulation until half way through expression pedal travel, then increases modulation rate",Taps tempo of delay and kick
+20,SINGLE EFFECT,Dean Morris,Really Cookin,Stereo pushed overdrives with a slap of delay in front.,Toe down brings in flange tone,Hold for flange tone
+21,SINGLE EFFECT,Dean Morris,Slow Grind,Homage to a long discontinued Boss unit. Slow attack but with a bit of slapback ping pong delay.,Toe down brings up delay modulation,Slowly brings up delay repeats to infinite
+22,SINGLE EFFECT,Evan Sirchuk,NatGeo,Delay into phaser into stereo ghostverb out. Wake from your sleep.,Toe down brings on infinite delay repeats,Toggles on infinite reverb and additional modulation
+23,SINGLE EFFECT,Gabriel Tanaka,Stereo Flanger,A stereo flanger inspired by running 2 Chase Bliss Audio Spectres in parallel,Increases rate of flanger,Toggles between positive and negative flanging
+24,SINGLE EFFECT,Dean Morris,Road To Ruin,"Audio to synthesis, ugly and bit modulated. Only tracks single notes.",Toe down shifts an oscillator up one octave and another down one octave.,Hold to glide one oscillator up and the other down an octave
+25,SINGLE EFFECT,Dean Morris,Burn It Clean,A stereo gated fuzz ,Toe down brings in an echo,Hold to slowly bring in an echo
+26,WILD EFFECT,Ian Pritchard,Drunk Delay,"Two slightly out of skew tap tempo delay lines, whose feedback increases the higher up the neck you play",Toe down brings on additional repeats and modulation,"Left stomp taps delay, kind of!"
+27,WILD EFFECT,Dean Morris,Chinook,"Stereo fuzz, gusting with icy northern wind",Toe down brings on the chinook,Left stomp brings on the chinook
+28,WILD EFFECT,Ian Pritchard,Env Vibrato,A weird little vibrato created by a pair of delay lines changing their time to your pick attack,Toe down brings up delay time with a bit of weirdness during travel,Toggles randomness on one delay line
+29,WILD EFFECT,Ian Pritchard,PitchRingMod,A ring mod effect ringing against a generated tone affected by your pitch,Toe down brings up oscillator pitch,Toggles transposition of generated tone
+30,WILD EFFECT,Dean Morris,Bipedal Delay,A stereo tap tempo delay with each repeat pitched up by a semitone.,Toe down brings up left delay to +5 and right delay to -1 semitones,Tap tempo of delay
+31,WILD EFFECT,Ian Pritchard,EmitterVerb,"A balance module takes signals from both inputs, diffuse delays them, and outputs them mixed as left output dry, right output wet.",Toe down for infinite decay,Left stomp brings on infinite decay
+32,WILD EFFECT,Evan Sirchuk,Slot Machine,Two parallel fuzzes into an aliaser which changes alias amount using a slow LFO,Toe down increases rate of alias LFO,"Left stomp triggers a temporary decaying boost in LFO rate, fuzz gain, and alias amount"
+33,WILD EFFECT,Dean Morris,V-Sync,"Warbly and grainy old VHS sounds get chewed with your pick attack, SMPTE colour bars and 1K pilot tone which ducks away from incoming audio",Toe down brings up a ring mod frequency,"Hold left stomp to ramp in some room reverb, and toggle off the pilot tone"
+34,WILD EFFECT,Dean Morris,Diamond Sea,"An attempt to recreate the Ludwig Phase II used in Sonic Youth's ""The Diamond Sea""",Toe down increases delay feedback and modulation,Tap tempo of delay and filters
+35,WILD EFFECT,Mitch Lantz,Vangelis Verb,Plate reverb into a delay line pitched up by a 5th and fed back into delay/reverb,Toe down introduces modulation and also speeds it up,Increases pitch shift
+36,WILD EFFECT,Scott Deathe,Space Fuzz,A flanged out fuzz with some modulated delay,Toe down pushes flange rate and delay feedback into the sun,Left stomp maxes out several parameters for maximum cosmic debris
+37,WILD EFFECT,Evan Sirchuk,Phaker,"An overdrivey, aliased out envelope filter. ",Toe down brings up Q of filters,Left stomp toggles boost in filter frequency and aliaser LFO rate
+38,WILD EFFECT,Dean Morris,Lost Woods,"A stereo plate reverb whose decay time increases the harder you play, into a stereo panning tremolo whose rate increases the higher pitch you play.",Expression pedal increases reverb decay time.,Stomp left slowly increases tremolo rate and depth.
+39,WILD EFFECT,Nihal Anand ,Sea Dreams,Vibrato-y reverb with random delayed and pitched artifacts.,"Toe down makes things crazier, increases tremolo rate",Left stomp triggers chorus.
+40,WILD EFFECT,aBunchOfPedals,Oafish,"A tap tempo tremolo and stereo delay pay homage to Big Wreck's ""The Oaf""",Expression pedal increases delay mod rate and depth.,Tap tempo tremolo and delay  (clock x4)
+41,PLAYABLE SYNTH,Dean Morris,Sayonara,Mono video game lead with drone notes playable on bottom row. MIDI channel 1.,Toe down increases reverb intensity,Left stomp slowly pitches up MIDI note
+42,PLAYABLE SYNTH,Daniel Fisher,QS Keyboard,Long echoing mono lead. Keyboard on bottom row or MIDI channel 1,Toe down decreases delay time into pitch bent subspace.,Left stomp transposes played note 1.5 steps
+43,MIDI SYNTH,JT Norton,Ana String,Somber 4 voice poly synth.,N/A,N/A
+44,MIDI SYNTH,JT Norton,Moge Model Z,A tribute to one of the greatest synths of all-time,N/A,N/A
+45,MIDI SYNTH,Dean Morris,Air Raid Siren,4 voice poly synth with aftertouch that warns you of impending doom.,Spins air raid crank,Spins air raid crank
+46,MIDI SYNTH,Dean Morris,Alf Pogs,A reverby mono synth with glitchy aftertouch.,Toe down transposes oscillators upwards 1 and 2 octaves,Maxes out reverb decay and mix
+47,MIDI SYNTH,JT Norton,Strange Chords,A polyphonic synth that gets weirder the more notes you play. MIDI channel 1.,Toe down increases resonance of filter,Left stomp slowly increases filter modulation
+48,MIDI SYNTH,JT Norton,Lost in Space,A weird and wacky mono synth playable on MIDI channel 1.,,Hold left stomp to slowly increase pitch
+49,MIDI SYNTH,Benn Jordan,TUT Subtractive,Simple Moog/Euro style subtractive synth template.,Toe down increases rate of parallel vibrato,Hold to slowly ramp up rate of parallel vibrato and frequency of filter
+50,MIDI SYNTH,JT Norton,Airport Wind,A mellow 4 voice synth pad,N/A,N/A
+51,MIDI SYNTH,Benn Jordan,Broken Bell,A synthesized bell sound,Toe down increases reverb decay time,Hold while playing for a longer bell sound
+52,SELF-PLAYING SYNTH,Nihal Anand,Beep Boop,Some boops and some beeps played by a seqencer.,Toe down increases rate of sequencer,"Increases rate of sequencer, pitches up oscillators and brings in additional melody."
+53,SELF-PLAYING SYNTH,Joe Pailo,Joebot,Some boops and some beeps played by a seqencer.,Toe down increases filter frequency,Hold to slowly decrease LFO
+54,SELF-PLAYING SYNTH,Benn Jordan,Chimelands,Synthesized chimes lull you into a state of bliss,Increases rate and randomness of chimes,Hold to bring in the tides
+55,SELF-PLAYING SYNTH,Nihal Anand,Cloud Party,Some boops and some beeps played by a sequencer,Toe down increases rate and pitch,Toggles bass line
+56,SELF-PLAYING SYNTH,Benn Jordan,Acidwolf Pedal,Sequenced groove to lay down some cardboard and spin on your head to,Toe down increases pulse width and Q of 303 filter,Retriggers sequence
+57,SELF-PLAYING SYNTH,Benn Jordan,Empty Streets,Ethereal soundscape,N/A,N/A
+58,SELF-PLAYING SYNTH,Benn Jordan,Turing Machine,A basic turing machine that randomly takes bits of a sequence and loops it or rearranges it. ,Toe down increases filter Q and reverb decay,Hold to slowly increase pitch of oscillators
+59,SELF-PLAYING SYNTH,Benn Jordan,Am I Conscious,.,Toe down increases mod depth of delay,Hold for infinite repeats and reverb
+60,BLANK SANDBOX,,,,,
+61,BLANK SANDBOX,,,,,
+62,BLANK SANDBOX,,,,,
+63,BLANK SANDBOX,,,,,

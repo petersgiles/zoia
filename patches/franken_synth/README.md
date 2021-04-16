@@ -2,12 +2,12 @@
 
 
 
-# Fly like
+# Franken synth
 
 ## Factory Patch
 
 
-2
+6
 ## Author
 
 
@@ -15,8 +15,8 @@ Daniel Fisher
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of synth pattern
+Toe down decreases invasion length, starting pitch on new trigger.
 ## Left Stompswitch Functionality
 
 
-Left stomp triggers synth pattern
+Triggers space invasion.

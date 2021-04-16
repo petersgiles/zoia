@@ -1,1 +1,0 @@
-# goth_rock_1

@@ -2,21 +2,21 @@
 
 
 
-# Fly like
+# A-melody
 
 ## Factory Patch
 
 
-2
+9
 ## Author
 
 
-Daniel Fisher
+Benn Jordan
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down increases rate of synth pattern
+Increases rate of sequence
 ## Left Stompswitch Functionality
 
 
-Left stomp triggers synth pattern
+Hold to slowly pitch up oscillators by 1 octave

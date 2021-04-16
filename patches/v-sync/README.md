@@ -2,12 +2,12 @@
 
 
 
-# Burn it clean
+# V-sync
 
 ## Factory Patch
 
 
-25
+33
 ## Author
 
 
@@ -15,8 +15,8 @@ Dean Morris
 ## Expression Pedal/External Switch Functionality
 
 
-Toe down brings in an echo
+Toe down brings up a ring mod frequency
 ## Left Stompswitch Functionality
 
 
-Hold to slowly bring in an echo
+Hold left stomp to ramp in some room reverb, and toggle off the pilot tone
